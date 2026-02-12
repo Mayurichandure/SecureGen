@@ -67,6 +67,9 @@ For Vercel:
 3. Make your changes
 4. Run tests and linting
 5. Submit a pull request
+   
+## Author
+Mayuri Chandure
 
 ## License
 
